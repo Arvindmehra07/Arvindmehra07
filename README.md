@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Freelancing**
 
-- 💬 Ask me about **Android, Kotlin**
+- 💬 Ask me about **Android, Kotlin, DS and algorithms, Robotics**
 
 - 📫 How to reach me **arvind.mehra@outlook.com**
 
