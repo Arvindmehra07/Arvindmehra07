@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Arvind
 
-#### An Android developer from India
+#### An Android engineer from India
 
 - 🌱 I’m currently learning **Android Jetpack libraries**
 
